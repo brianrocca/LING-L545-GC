@@ -1,4 +1,4 @@
-# Segmenter.py Synopsis
+## Segmenter.py Report
 
 Segmenter.py was created using a sentence tree logic adopted from Jurafsky and Martin (2008) to segment text written in Bahasa Banjar into sentences.  
 
