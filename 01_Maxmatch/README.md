@@ -7,3 +7,5 @@ The tokenized dictionary that maxmatch compares input to is stored inside the ma
 
 ##### Effectiveness
 Running [wer.py](https://github.com/zszyellow/WER-in-python) to check Word Error Rate (WER) on 543 lines of Japanese text, the final WER was was 0.0061. 
+
+[WERimage](https://github.com/brianrocca/LING-L545-GC/min/01_Maxmatch/wer.png)
