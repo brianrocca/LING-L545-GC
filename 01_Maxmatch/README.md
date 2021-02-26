@@ -10,4 +10,4 @@ Running [wer.py](https://github.com/zszyellow/WER-in-python) to check Word Error
 
 ![Image of WER](https://github.com/brianrocca/LING-L545-GC/01_Maxmatch/WER.png) 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![](LING-L545-GC/01_Maxmatch/WER.png)
