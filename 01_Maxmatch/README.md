@@ -6,6 +6,6 @@ This Maxmatch algorithm has been created to run on texts written in Japanese. Ma
 The tokenized dictionary that maxmatch compares input to is stored inside the maxmatch.py file. Because of this, type the name of th efile you'd like to tokenize into the command line. For example: ```$ python3 maxmatch.py name_of_text_file.txt```
 
 ##### Effectiveness
-Running [wer.py](https://github.com/zszyellow/WER-in-python) to check Word Error Rate (WER) on 543 lines of Japanese text, the final WER was was 0.0061. 
+Running [wer.py](https://github.com/zszyellow/WER-in-python) to check Word Error Rate (WER) on 543 lines of Japanese text, the final WER was was 6.36%. 
 
 ![](WER.png)
