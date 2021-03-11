@@ -1,0 +1,50 @@
+Multichar_Symbols
+%>                   ! Frontera de morfema
+%<n%>                ! Nombre
+%<gen%>              ! Genitivo
+%<loc%>              ! Locativo
+%<der_kue%>	     ! nominal past	
+%<comp%>	     ! comparativo
+%<pl%>		     ! plural
+%{m%}                ! pe/me archiphoneme
+%{g%}		     ! k/g archiphoneme
+%{n%}		     ! n archiphoneme
+
+LEXICON Root
+
+Nouns ;
+
+LEXICON N
+
+%<n%>: CASE ;
+%<n%>: SUBST ;
+%<n%>: PL ;
+
+LEXICON PL
+
+%<pl%>:%>%{n%}%{g%}uéra CASE ;
+
+LEXICON SUBST
+
+%<der_kue%>:%>kue # "weight: 1.0" ;
+%<comp%>:%>icha # ;
+
+LEXICON CASE
+%<nom%>: # ; ! ""
+%<gen%>:%>gui #; ! "de"
+%<loc%>:%>%{m%}e # ; ! "a, en"
+
+
+LEXICON Nouns
+
+ava:ava N ; ! "raza, gente"
+aváicha:aváicha N ; ! "comp form"
+óga:óga N ; ! "casa"
+irũ:irũ N ; ! "amigo"
+apyka:apyka N ; ! "silla"
+irũnguéra:irũnguéra N ; ! "plural of iru"
+apykakuéra:apykakuéra N ; ! "plural of apyka"
+tembiasa:tembiasa N ; ! "experiencia"
+tembiasakue:tembiasakue N ; ! "history"
+akãvai:akãvai N; ! “locura”
+akãvaicha:akãvaicha N ; ! "locura + comp"
