@@ -9,7 +9,7 @@ Baler adalah munisipalitas yang terletak di provinsi Aurora, Filipina.
 
 Baler is municipality that located in province Aurora, Philippines.
 
-This tree appears to be well-formed. “munisipalitas” is the head of the predicate and should therefore be the root. The subject (Baler) and copula verb branch out from the root. “Terletak” stems out of “municipalitas” and forms the head of a new clause.  
+This tree is well-formed. “Munisipalitas” is the head of the predicate and should therefore be the root. The subject (Baler) and copula verb are governed by the root. “Terletak” is goverened by “municipalitas” and forms the head of a new clause.  
 
 ## Sentence 2
 ![](sentence2.png)
@@ -20,7 +20,7 @@ Pencurian dan perampokan juga sangat jarang terjadi di wilayah ini.
 
 Theft and robbery also very rarely happen/occur in region this. 
 
-The root of this tree is appropriate. “Terjadi” is the root of the tree because it’s the head of the predicate. It also has correctly grouped “juga sangat jarang” (also very rarely) with the root because they are part of the predicate. The subject also looks correct. There are two nouns in the subject joined by “dan” (and). The first noun takes the second one as a dependent, and the second noun takes the conjunction as its dependent.  
+“Terjadi” is the root of the tree because it’s the head of the predicate. The adverb phrase “...juga sangat jarang...” (also very rarely) is goverened by the root because the phrase is part of the predicate. Finally, there are two nouns in the subject joined by “dan” (and). The first noun takes the second one as a dependent, and the second noun takes the conjunction as its dependent.  
 
 ## Sentence 3
 ![](sentence3.png)
@@ -31,7 +31,7 @@ Laut Sulawesi merupakan     tempat bagi banyak spesies ikan dan makhluk bawah ai
 
 Sea Sulawesi is-composed-of place for   many species fish and creature under water
 
-I’m not sure if the root is correct here. “Merupakan” is a copula verb meaning “is composed of/constitutes”, so “tempat….I don’t know. Maybe it is all good?
+# I’m not sure if the root is correct here. “Merupakan” is a copula verb meaning “is composed of/constitutes”, so “tempat….I don’t know. Maybe it is all good?
 
 ## Sentence 4
 ![](sentence4.png)
